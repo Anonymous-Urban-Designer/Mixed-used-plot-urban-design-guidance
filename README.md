@@ -26,6 +26,8 @@
   
   - <strong>分期建设的策略</strong>
     - 有条不紊地开发建设该区域的策略
+    
+![](https://github.com/Anonymous-Urban-Designer/Mixed-used-plot-urban-design-guidance/blob/d6a943718a5d51f65a8b4b7b663333831eacbbb6/images/birdsview_SZ.png)
 
 
 ***
