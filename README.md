@@ -26,7 +26,6 @@
   
   - <strong>分期建设的策略</strong>
     - 有条不紊地开发建设该区域的策略
-    
 
 <div align = center><img src ="https://github.com/Anonymous-Urban-Designer/Mixed-used-plot-urban-design-guidance/blob/d6a943718a5d51f65a8b4b7b663333831eacbbb6/images/birdsview_SZ.png" width =50% height = 50%></div>
 
@@ -53,8 +52,7 @@
 
 ## 3.规划的组成部分
 &emsp;<strong>街道网络</strong>  
-&emsp;规划做那个的新区根据田字形接到网络布置，街道网络结合场地中段现有的田民路设置，与场地南边的福华一路相连，有两条东西向街道和五条南北向街道组成，这些规划的新街道将于现有的街道和场地外相邻的规划路共同设置。  
-&emsp;街道两旁及停车场将配备人行道，每条街都有绿化，形成绿树成荫的环境。
+&emsp;<font size=1>规划做那个的新区根据田字形接到网络布置，街道网络结合场地中段现有的田民路设置，与场地南边的福华一路相连，有两条东西向街道和五条南北向街道组成，这些规划的新街道将于现有的街道和场地外相邻的规划路共同设置。街道两旁及停车场将配备人行道，每条街都有绿化，形成绿树成荫的环境。</font>
 
 <div align = center><img src ="https://github.com/Anonymous-Urban-Designer/Mixed-used-plot-urban-design-guidance/blob/master/images/network.png" width =50% height = 50%></div>
 
@@ -69,3 +67,6 @@
 &emsp;规划的两公园应各具特色，提供夏日避暑乘凉的树荫，供人们使用。
 
 <div align = center><img src ="https://github.com/Anonymous-Urban-Designer/Mixed-used-plot-urban-design-guidance/blob/master/images/twoparks.png" width =50% height = 50%></div>
+
+&emsp;<strong>主街</strong> 
+&emsp;
